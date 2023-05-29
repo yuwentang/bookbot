@@ -1,2 +1,2 @@
 # bookbot
-This is my first repository on GitHub.
+BookBot is my first git project~
